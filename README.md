@@ -1,0 +1,2 @@
+# Receive-the-information-from-the-reCamera-to-control-the-computer-through-body-sensing.
+Receive the information from the reCamera to control the computer through body sensing.This program will monitor all UDP information sent from port 5005. Port 5005 was set up by me in Node-RED on reCamera. Once it receives the action information, it will control the computer using the principle of simulated keyboard operations to play games.
